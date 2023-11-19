@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eclipsedevbcfunny
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Godot 4
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: fowluhhdevbcfunny on Discord
